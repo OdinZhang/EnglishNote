@@ -2,7 +2,7 @@
 
 \LoadClass[a4paper, oneside]{book}
 \RequirePackage[dvipsnames]{xcolor}
-\RequirePackage{ctex}
+\RequirePackage[UTF8]{ctex}
 \RequirePackage{tikz}
 \usetikzlibrary{shapes.geometric}
 \usetikzlibrary{calc}
